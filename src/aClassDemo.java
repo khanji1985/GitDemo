@@ -59,6 +59,8 @@ public class aClassDemo {
 			
 		}
 		
+		System.out.println("Job Done");
+		System.out.println("Thank you");
 		
 }
 
